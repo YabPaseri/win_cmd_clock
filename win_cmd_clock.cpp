@@ -6,6 +6,7 @@
 #include <conio.h>
 #define sleep(n) Sleep(n * 1000)
 #define usleep(n) Sleep(n/1000)
+
 void num1(int x, int y)
 {
 	int i;
